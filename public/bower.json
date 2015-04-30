@@ -1,0 +1,16 @@
+{
+  "name": "ejemplo",
+  "version": "0.0.1",
+  "description": "paquetes del frondend",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Julio carlos"
+  ],
+  "license": "MIT",
+  "homepage": "ejemplo.app",
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
